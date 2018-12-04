@@ -12,7 +12,10 @@ const apartments = [
         contactDetails: {
             name: "Douglas",
             email: "doug@less.com"
-        }
+        },
+        features: [
+            "Pool"
+        ]
     },
     {
         img: "https://i.pinimg.com/736x/17/f2/6e/17f26e8f188af5d3e377dacb2011889a--mediterranean-houses-mediterranean-style.jpg",
@@ -24,7 +27,10 @@ const apartments = [
         contactDetails: {
             name: "William",
             email: "will@i.am"
-        }
+        },
+        features: [
+            "AC"
+        ]
     },
     {
         img: "https://blenderartists.org/uploads/default/original/4X/2/f/9/2f9d2a683dd5eada8bf64a590aa20a01312509ca.jpg",
@@ -36,7 +42,10 @@ const apartments = [
         contactDetails: {
             name: "Rickay",
             email: "rrrrick@cucumber.com"
-        }
+        },
+        features: [
+            "Coded gate"
+        ]
     },
     {
         img: "http://mat2.materialicious.com/images/space-house-803-o.jpg",
@@ -48,7 +57,10 @@ const apartments = [
         contactDetails: {
             name: "Charles",
             email: "charles.smith@coldmail.com"
-        }
+        },
+        features: [
+            "Elevator"
+        ]
     },
     {
         img: "http://www.kucasnova.com/wp-content/uploads/2014/01/projekat-kuce-sa-potkrovljem-i-garazom-4-1.jpg",
@@ -60,6 +72,9 @@ const apartments = [
         contactDetails: {
             name: "Trevor",
             email: "t@noah.ark"
-        }
+        },
+        features: [
+            "Gas heating"
+        ]
     }
 ]
